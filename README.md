@@ -1,2 +1,1 @@
-# INSE_6680_Project
-INSE_6680_Project
+# Canadian Government Intervention in Ensuring Critical Infrastructure Protection
